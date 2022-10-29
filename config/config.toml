@@ -1,0 +1,18 @@
+[viewer]
+    Title = "wyy的Go语言博客"
+    Description = "wyy的Go语言博客"
+    Logo = "/resource/images/temp.png"
+    Navigation = ["首页","/", "GO语言","/golang", "归档","/pigeonhole", "关于","/about"]
+    Bilibili = "https://space.bilibili.com/473844125"
+    Zhihu = "https://www.zhihu.com/people/ma-shen-zhi-lu"
+    Avatar = "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F13147603927%2F1000.jpg&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1647242040&t=c6108010ed46b4acebe18955acdd2d24"
+    UserName = "wyy"
+    UserDesc = "我就是太阳"
+[system]
+    CdnURL = "https://static.mszlu.com/goblog/es6/md-assets"
+    QiniuAccessKey = "1"
+    QiniuSecretKey = "2"
+    Valine = true
+    ValineAppid = "vxqoEd2tqWzeIHKXCyRdJSl6-gzGzoHsz"
+    ValineAppkey = "2ivq2nwPbpoRJk0Xu0Ecasqx"
+    ValineServerURL = "https://vxqoed2t.lc-cn-n1-shared.com"
